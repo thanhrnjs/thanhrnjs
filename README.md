@@ -1,8 +1,6 @@
-<!--
+
 ### Hi there 👋
-
-
-
+<!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhrnjs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
 ### :hammer_and_wrench: Languages and Tools used:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -28,3 +26,4 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original-wordmark.svg" title="Handlebars" alt="Handlebars" width="60" height="60"/>&nbsp;
 </div>
+-->
