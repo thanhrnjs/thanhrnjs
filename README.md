@@ -11,10 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![thanhrnjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhrnjs&hide=stars,prs,issues,contribs&show_icons=true&theme=default)
--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhrnjs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+
 ### :hammer_and_wrench: Languages and Tools used:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
