@@ -1,5 +1,6 @@
 
 ### Hi there 👋
+
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -10,9 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![thanhrnjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhrnjs&hide=stars,prs,issues,contribs&show_icons=true&theme=default)
+![thanhrnjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhik1&hide=stars,prs,issues,contribs&show_icons=true&theme=default)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhrnjs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhik1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools used:
 <div>
